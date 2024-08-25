@@ -14,6 +14,6 @@ Go and ask the main maintainer D4LM or Crypt in one of our coding club meeting o
   * Add location on all of our webpages to go to other webpages instead of going back to the main webpage and then having to go that webpage.
   * Add about me page
   * Add about me page for all our members (Starting with President, Vice President, Treasurer, Secretary then with the founders)
-  * Link to social media app (Snapchat, twitter, instagram)
+  * Link to social media sites (Snapchat, twitter, instagram)
   * Note: Strike through when finished.
     * ~~Like this~~
