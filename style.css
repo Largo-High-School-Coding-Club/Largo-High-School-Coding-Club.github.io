@@ -55,6 +55,7 @@ img.animatedImg {
   font-family: 'Outfit', sans-serif;
   font-weight: 700;
   background: -webkit-linear-gradient(#ffac75, #f6ff75);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   position: relative;
@@ -141,7 +142,7 @@ img {
 }
 
 img:hover {
-  transform: scale(1.2); /* Zoom in by 20% */
+  transform: scale(1.04); /* Zoom in by 4% */
 }
 
 
