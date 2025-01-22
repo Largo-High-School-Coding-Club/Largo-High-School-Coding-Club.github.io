@@ -154,3 +154,18 @@ img:hover {
   width: 200px;
   height: 200px;
 }
+
+header a{
+  color: unset;
+  text-decoration: unset;
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  background: -webkit-linear-gradient(#ffac75, #f6ff75);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  position: relative;
+  overflow: hidden; /* Add this line to hide the overflowing content during animation */
+  font-size: 44px;
+}
